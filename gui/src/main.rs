@@ -16,3 +16,8 @@ pub extern "C" fn _door(fb_addr: *mut u32, width: usize, height: usize, pitch: u
     }
     loop {}
 }
+
+// #[panic_handler]
+// fn panic(_info: &PanicInfo) -> ! {
+//     loop {}
+// }
