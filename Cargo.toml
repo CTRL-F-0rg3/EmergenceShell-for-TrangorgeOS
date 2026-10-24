@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "bootshell", "gui" , "lib",
+]
+
+resolved = "2"
