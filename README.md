@@ -1,0 +1,1 @@
+# EmergenceShell for TrangorgeOS
